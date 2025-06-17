@@ -55,6 +55,12 @@ nav > a{
     padding-right: 10px;
 }
 
+
+
+a:hover{
+    color: var(--cor1);
+
+}
 section > img{
     max-width: 60%;
     min-width: 30%;
